@@ -4,6 +4,8 @@
 
 此版本由[Elegant1E](https://github.com/Elegant1E)创建，它使用最新的 hexo 版本 v7.1.1，该版本未从官方版本做出任何修改，只添加了README.md文件。
 
+这是本项目的保留链接，防止一键创建后无法找到本仓库：https://github.com/Elegant1E/hexo-example
+
 # 部署您自己的
 
 ### 部署到您自己的Vercel
@@ -16,7 +18,7 @@
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Elegant1E/hexo-example)
 
-### 如果你能提供更多的一键部署渠道，请在issues里向我反馈。
+### 如果你能提供更多的一键部署渠道，请在Discussions里向我反馈。
 
 ## 许可证
 
@@ -32,6 +34,8 @@ This directory is a quick-start example of a [Hexo](https://hexo.io/) site that 
 
 This version is created by [Elegant1E](https://github.com/Elegant1E), using the latest hexo version v7.1.1, with no modifications made from the official version,Only README.md was added.
 
+This is a reserved link for this project to prevent it from being lost after one-click creation: https://github.com/Elegant1E/hexo-example
+
 # Deploy Your Own
 
 ### Deploy to Your Own Vercel
@@ -45,7 +49,7 @@ Use Vercel to deploy your own Hexo project.
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Elegant1E/hexo-example)
 
-### If you can provide more one-click deployment channels, please feel free to feedback to me in the issues.
+### If you can provide more one-click deployment channels, please feel free to feedback to me in the Discussions.
 
 ## License
 This project is licensed under the GPL-3.0 license.
