@@ -1,3 +1,5 @@
+### [中文](#Hexo-示例) | [English](#Hexo-Example)
+
 # Hexo 示例
 
 这个目录是一个[Hexo](https://hexo.io/)站点的简短示例，可以在零配置的情况下部署到 Vercel。或者您可以自己复制到自己的仓库自行构建。
