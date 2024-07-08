@@ -2,11 +2,13 @@
 
 # Hexo 示例
 
-这个目录是一个[Hexo](https://hexo.io/)站点的简短示例，可以在零配置的情况下部署到 Vercel。或者您可以自己复制到自己的仓库自行构建。
+* 这个目录是一个[Hexo](https://hexo.io/)站点的简短示例，可以在零配置的情况下部署到 Vercel。或者您可以自己复制到自己的仓库自行构建。
 
-此版本由[Elegant1E](https://github.com/Elegant1E)创建，它使用最新的 hexo 版本 v7.2.0，该版本未从官方版本做出任何修改，只添加了README.md和LICENSE文件。
+* 此版本由[Elegant1E](https://github.com/Elegant1E)创建，它使用最新的 hexo 版本 v7.3.0，该版本未从官方版本做出任何修改，只添加了README.md和LICENSE文件。
 
-这是本项目的保留链接，防止一键创建后无法找到本仓库：https://github.com/Elegant1E/hexo-example
+* 这是本项目的保留链接，防止一键创建后无法找到本仓库：https://github.com/Elegant1E/hexo-example
+
+* 为了防止提交更新后无法fork旧版，你可以前往[Releases](https://github.com/Elegant1E/hexo-example/releases)下载打包好的旧版代码。大多数情况下我更建议您直接fork新版。
 
 # 部署您自己的
 
@@ -32,11 +34,13 @@
 
 # Hexo Example
 
-This directory is a quick-start example of a [Hexo](https://hexo.io/) site that can be deployed to Vercel with zero configuration. Alternatively, you can fork it to your own repository and build it yourself.
+* This directory is a quick-start example of a [Hexo](https://hexo.io/) site that can be deployed to Vercel with zero configuration. Alternatively, you can fork it to your own repository and build it yourself.
 
-This version is created by [Elegant1E](https://github.com/Elegant1E), using the latest hexo version v7.2.0, with no modifications made from the official version,Only README.md and LICENSE was added.
+* This version is created by [Elegant1E](https://github.com/Elegant1E), using the latest hexo version v7.3.0, with no modifications made from the official version,Only README.md and LICENSE was added.
 
-This is a reserved link for this project to prevent it from being lost after one-click creation: https://github.com/Elegant1E/hexo-example
+* This is a reserved link for this project to prevent it from being lost after one-click creation: https://github.com/Elegant1E/hexo-example
+
+* In case you can't fork the old version after submitting an update, you can head over to [Releases](https://github.com/Elegant1E/hexo-example/releases) and download the packaged old code. In most cases I would recommend you to fork the new version directly.
 
 # Deploy Your Own
 
