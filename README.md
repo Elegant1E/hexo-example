@@ -4,7 +4,7 @@
 
 * 这个目录是一个[Hexo](https://hexo.io/)站点的简短示例，可以在零配置的情况下部署到 Vercel。或者您可以自己复制到自己的仓库自行构建。
 
-* 此版本由[Elegant1E](https://github.com/Elegant1E)创建，它使用最新的 hexo 版本 v7.3.0，该版本未从官方版本做出任何修改，只添加了README.md和LICENSE文件。
+* 此版本由[Elegant1E](https://github.com/Elegant1E)创建，它使用最新的 hexo 版本 v8.0.0，该版本未从官方版本做出任何修改，只添加了README.md和LICENSE文件。
 
 * 这是本项目的保留链接，防止一键创建后无法找到本仓库：https://github.com/Elegant1E/hexo-example
 
